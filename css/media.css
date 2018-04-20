@@ -1,0 +1,96 @@
+@media only screen and (max-width: 520px){
+	footer h6{
+		float: none;
+	}
+}
+
+@media only screen and (max-width: 768px){
+
+	.search .form-control {
+	    width: 45%;
+	}
+
+	.navbar-collapse.in {
+	    overflow-y: unset;
+	}
+
+	.navbar-nav {
+	    float: left;
+	    width: 100%;
+	    padding-bottom: 10px;
+    	padding-top: 10px;
+	}
+
+	.navbar-toggle .icon-bar {
+	    display: block;
+	    width: 22px;
+	    height: 3px;
+	    border-radius: 1px;
+	    background: #fff;
+	}
+
+	.navbar {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+
+	.navbar-collapse {
+	    padding-right: 70px;
+	}
+
+	.upper h1{
+		font-size: 35px;
+	}
+
+	.upper {
+	    padding-left: 1rem;
+	    padding-right: 1rem;
+	}
+
+	.testemonials h1 {
+	    font-size: 18px;
+	}
+
+	section {
+	    padding-left: 0;
+	    padding-right: 0;
+	    padding-top: 2rem;
+	    padding-bottom: 2rem;
+	}
+
+	#post {
+	    padding-left: 2rem;
+	    padding-right: 2rem;
+	    padding-top: 2rem;
+	    padding-bottom: 2rem;
+	}
+
+	#post .col-sm-4{
+		margin-bottom: 30px;
+	}
+
+	#post .col-sm-4:last-child{
+		margin-bottom: 0;
+	}
+
+	#post .content-div {
+	    margin-bottom: 0;
+	}
+
+	#post .inner-box {
+	    background: transparent;
+	    padding: 0;
+	}
+
+	#grid h4 {
+	    padding-bottom: 0;
+	}
+
+	footer {
+		height: 10rem;
+	    padding-top: 2rem;
+	    padding-left: 2rem;
+	    padding-right: 2rem;
+	}
+
+}
